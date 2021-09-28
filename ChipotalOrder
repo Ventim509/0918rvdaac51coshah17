@@ -1,0 +1,85 @@
+order_id	quantity	item_name	choice_description	item_price
+1	1	Steak Soft Tacos	[Tomatillo Green Chili Salsa, [Pinto Beans, Cheese, Sour Cream, Lettuce]]	$9.25 
+1	1	Steak Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$9.25 
+1	1	Chicken Soft Tacos	[Roasted Chili Corn Salsa, [Cheese, Lettuce]]	$8.75 
+1	1	Chips and Guacamole	NULL	$4.45 
+2	1	Chips and Guacamole	NULL	$3.99 
+2	2	Canned Soda	[Mountain Dew]	$2.18 $8.99 
+2	1	Chips and Guacamole	NULL	$4.45 
+3	1	Chips and Tomatillo-Green Chili Salsa	NULL	$2.39 
+3	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream, Guacamole]]	$10.98 
+4	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+4	1	Chicken Bowl	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+4	1	Steak Soft Tacos	[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Lettuce]]	$8.99 
+4	2	Steak Salad Bowl	[Tomatillo Red Chili Salsa, [Black Beans, Cheese, Guacamole]]	$23.78 
+4	2	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$17.50 
+4	1	Chips	NULL	$2.15 
+5	2	Chicken Salad Bowl	[Fresh Tomato Salsa, Fajita Vegetables]	$17.50 
+5	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]	$8.49 
+5	1	6 Pack Soft Drink	[Diet Coke]	$6.49 
+5	1	Steak Soft Tacos	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]	$9.25 
+5	2	Chicken Soft Tacos	[Fresh Tomato Salsa, Sour Cream]	$17.50 
+6	1	Chips and Tomatillo Green Chili Salsa	NULL	$2.95 
+6	1	Carnitas Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Sour Cream, Cheese]]	$9.25 
+6	1	6 Pack Soft Drink	[Diet Coke]	$6.49 
+6	1	Chicken Bowl	[Roasted Chili Corn Salsa, [Rice, Lettuce]]	$8.75 
+7	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+7	1	Chips and Fresh Tomato Salsa	NULL	$2.95 
+8	1	Chicken Soft Tacos	[Roasted Chili Corn Salsa, [Rice, Cheese, Lettuce, Guacamole]]	$11.25 
+8	1	Steak Bowl	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Lettuce]]	$9.25 
+8	1	Chicken Salad Bowl	[Roasted Chili Corn Salsa, [Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+8	1	Chicken Crispy Tacos	[Fresh Tomato Salsa (Mild), [Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.49 
+8	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]	$8.75 
+8	1	Steak Bowl	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Cheese, Lettuce]]	$9.25 
+9	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+9	1	Canned Soft Drink	[Sprite]	$1.25 
+9	1	Steak Burrito	[Tomatillo Green Chili Salsa, [Rice, Cheese, Guacamole, Lettuce]]	$11.75 
+9	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+9	1	Steak Bowl	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$9.25 
+9	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+10	1	Veggie Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+11	2	Steak Bowl	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese]]	$17.98 
+12	1	Chips and Tomatillo-Green Chili Salsa	NULL	$2.39 
+12	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+12	1	Barbacoa Soft Tacos	[Tomatillo Red Chili Salsa, [Black Beans, Cheese, Sour Cream, Guacamole]]	$11.75 
+12	1	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Lettuce]]	$8.75 
+12	2	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Cheese, Black Beans]]	$17.50 
+12	1	Steak Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$9.25 
+13	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+13	1	Chicken Salad	[[Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+13	1	Chicken Bowl	[[Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+13	1	Chips and Roasted Chili Corn Salsa	NULL	$2.95 
+14	1	Chips	NULL	$2.15 
+14	1	Steak Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream]]	$9.25 
+14	2	Bottled Water	NULL	$2.18 
+15	1	Chips and Roasted Chili-Corn Salsa	NULL	$2.39 
+15	1	Chips and Fresh Tomato Salsa	NULL	$2.39 
+15	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Guacamole]]	$11.25 
+15	1	Chips and Guacamole	NULL	$4.45 
+16	1	Steak Bowl	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream]]	$9.25 
+16	1	Chips	NULL	$2.15 
+17	1	Steak Bowl	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.48 
+17	1	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+17	1	Chips and Fresh Tomato Salsa	NULL	$2.39 
+17	1	Chicken Bowl	[Fresh Tomato Salsa, [Fajita Vegetables, Pinto Beans, Guacamole, Lettuce]]	$11.25
+18	3	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$26.25  
+18	1	Chips and Guacamole	NULL	$4.45 
+18	1	Steak Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Guacamole, Lettuce]]	$11.75 
+18	1	Chicken Salad Bowl	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+19	1	Chicken Bowl	[Tomatillo Green Chili Salsa, [Rice, Sour Cream, Cheese, Guacamole]]	$11.25 
+19	1	Chips and Guacamole	NULL	$4.45 
+19	1	Chicken Bowl	[Fresh Tomato Salsa, [Fajita Vegetables, Rice]]	$8.75 
+19	1	Chicken Bowl	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+19	1	Chips	NULL	$2.15 
+19	2	Barbacoa Crispy Tacos	[Fresh Tomato Salsa, [Sour Cream, Cheese, Rice]]	$18.50 
+20	1	Chicken Soft Tacos	[Tomatillo Green Chili Salsa, [Sour Cream, Guacamole]]	$11.25 
+21	1	Chicken Bowl	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+21	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Rice, Cheese, Guacamole]]	$10.98 
+21	2	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$17.50 
+21	1	Steak Bowl	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Guacamole, Lettuce]]	$11.75 
+21	1	Side of Chips	NULL	$1.69 
+21	1	Chicken Soft Tacos	[Fresh Tomato Salsa, [Rice, Cheese]]	$8.75 
+22	1	Chips and Tomatillo Green Chili Salsa	NULL	$2.95 
+22	1	Barbacoa Bowl	[Roasted Chili Corn Salsa, [Cheese, Lettuce]]	$9.25 
+22	1	Veggie Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+22	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Sour Cream, Guacamole]]	$10.98 
